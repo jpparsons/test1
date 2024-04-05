@@ -3,3 +3,4 @@ A new line entered here.
 Another new line entered here.
 branch 1 edit A CONFLICT
 branch 1 edit 2
+ammend this commit?
