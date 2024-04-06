@@ -2,6 +2,8 @@ main baranch edit
 branch 2 edit
 branch 1 edit
 A new line entered here.
+CONFLICT!!
+Another new line entered here.
 branch 1 edit A CONFLICT
 branch 1 edit 2
 Branch 2 new line
