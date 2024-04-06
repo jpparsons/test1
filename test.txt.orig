@@ -1,0 +1,9 @@
+main baranch edit
+branch3
+another edit
+<<<<<<< HEAD
+amend test
+=======
+amend test
+amend test 2
+>>>>>>> 310bb15 (First commit)
